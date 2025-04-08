@@ -1,0 +1,1 @@
+pyautogui.hotkey("command", "space") 
